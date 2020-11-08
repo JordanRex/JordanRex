@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working at Tesco, Bangalore
+- 🌱 I’m currently learning a lot of stuff! Primarily around Flask/Dash applications, deployment, networking principles etc.
+- 👯 I’m looking to collaborate on my AutoML project -> yaaml
+- 📫 How to reach me: https://www.linkedin.com/in/varunvrajan/
+
+
 <!--
 **JordanRex/JordanRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
