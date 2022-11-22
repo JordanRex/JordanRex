@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at Tesco, Bangalore
+- 🔭 I’m currently working at Ab-Inbev, Bangalore
 - 🌱 I’m currently learning a lot of stuff! Primarily around Flask/Dash applications, deployment, networking principles etc.
 - 👯 I’m looking to collaborate on my AutoML project -> yaaml
 - 📫 How to reach me: https://www.linkedin.com/in/varunvrajan/
